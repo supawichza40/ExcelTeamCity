@@ -8,5 +8,5 @@ data = {
 #load data into a DataFrame object:
 df = pd.DataFrame(data)
 
-df.to_excel("text.xlsx")
+
 print(df)
